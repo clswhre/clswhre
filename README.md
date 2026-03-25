@@ -2,13 +2,11 @@
 
 **clswhre** - Bohdan, 17, Ukraine
 
-Here are some ideas to get you started:
-
 - 🌱 I’m currently learning Linux & CyberSecurity
+- 📫 How to reach me: krugov1bogdan@gmail.com
+- 😄 Pronouns: he/him
 
 <!--
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ... -->
-- 📫 How to reach me: krugov1bogdan@gmail.com
-- 😄 Pronouns: he/him
-<!-- - ⚡ Fun fact: ... -->
+- 💬 Ask me about ...
+- ⚡ Fun fact: ... -->
