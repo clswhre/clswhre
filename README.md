@@ -1,12 +1,5 @@
 <h1 align="center">Hi there, I'm Bohdan 👋</h1>
 <h3 align="center">Cybersecurity enthusiast · Homelabber</h3>
-
-<p align="center">
-  <a href="https://clswhre.github.io/"><img src="https://img.shields.io/badge/blog-clswhre.github.io-informational?style=flat&logo=jekyll&logoColor=white" alt="Blog"/></a>
-  <img src="https://img.shields.io/badge/location-Ukraine-blue" alt="Location"/>
-  <img src="https://img.shields.io/badge/timezone-UTC%2B3-lightgrey" alt="Timezone"/>
-</p>
-
 ---
 
 ### 🔭 What I'm up to
