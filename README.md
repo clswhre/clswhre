@@ -1,6 +1,5 @@
 <h1 align="center">Hi there, I'm Bohdan 👋</h1>
 <h3 align="center">Cybersecurity enthusiast · Homelabber</h3>
----
 
 ### 🔭 What I'm up to
 
