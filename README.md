@@ -28,7 +28,7 @@ Binary exploitation (pwn), reverse engineering, networking, and Linux internals.
 | 📡 [**larPING**](https://github.com/clswhre/larPING) | Hollywood0like styled ping tool, written in GO |
 | 🍊 [**Tangerine**](https://github.com/clswhre/Tangerine) | Browser extension for claiming Twitch points |
 | 🥭 [**Mango**](https://github.com/clswhre/Mango) | OOP Coursework C# WPF desktop app for managing places, built with MVVM, SQLite and weather API integration |
-| 🎨 [**system24-rounded**](https://github.com/clswhre/system24-rounded) | *[Add short description — see note below]* |
+| 🎨 [**system24-rounded**](https://github.com/clswhre/system24-rounded) | My vesktop theme files // fork of system24, but rounded |
 | 🖥️ [**dotfiles-kde**](https://github.com/clswhre/dotfiles-kde) | KDE dotfiles |
 | ⚙️ [**dotfiles-mango**](https://github.com/clswhre/dotfiles-mango) | MangoWM configuration |
 
